@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**busugaacevedo/busugaacevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# **Authorship**
 **Brandon A. Usuga-Acevedo, PhD**  
 *Molecular Physical Chemist | Computational Biophysics & Molecular Modeling*  
 
